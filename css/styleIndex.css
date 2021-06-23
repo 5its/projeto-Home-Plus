@@ -1,0 +1,69 @@
+body{
+    background-color: rgb(119, 187, 207);
+}
+
+#navbar{
+    background-color:rgb(001, 221, 255);
+}
+
+#fontNavbar{
+    font-size: 20px;
+}
+
+#cardsHead{
+    background-color: #fca624;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#cardTitle{
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#cards{
+    margin: 3%;
+    background-color:  #84c4ff;
+}
+
+#fontCards{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#rodape{
+    background-color: rgb(255, 153, 0);
+    
+    height: 200px;
+}
+
+#rodapeContato{
+    position: relative;
+    font-size: 40px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    top: 16px;
+   left: 5%;
+}
+
+#rodapeImg{
+    position: relative;
+    margin-top: -9%;
+    left: 85%;
+}
+
+#table1{
+    position: relative;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: 2%;
+    left: 5%;
+    
+}
+
+#table2{
+    position: relative;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-top: -4%;
+    left: 30%;
+}

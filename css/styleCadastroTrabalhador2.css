@@ -1,0 +1,81 @@
+    body{
+        background-image: linear-gradient( rgb(0, 64, 124), rgb(24, 92, 238), rgb(0, 64, 124));
+        background-repeat: no-repeat;
+        background-size: cover;
+        height: 100%;
+}
+
+div.top{
+    text-align: center;
+}
+
+#img1{
+    margin-top: 2%;
+    margin-bottom: 1%;
+}
+
+#font1{
+    text-align: center;
+    color: #ffa600;
+    text-shadow: 1px 1px 1px black;
+    font-size: 30pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+#font2{
+    font-size: 24pt;
+    margin-left: 1%;
+    color: #ffa600;
+    text-shadow: 1px 1px 1px black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+section{
+
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+
+#form1{
+    background-color: rgb(169, 238, 249, 0.938);
+    margin-top: 1%;
+    padding: 3%;
+    border: 2px solid rgb(204, 154, 000);
+    border-radius: 1em;
+    box-shadow: 5px 5px 10px #F09A00
+} 
+
+
+#button1{
+    border: none;
+    font-size: 25px;
+    margin-top: 2%;
+    margin-bottom: 2%;
+    width: 25%;
+    height: 50px;
+    border-radius: 1em;
+    color: rgb(255, 255, 255);
+    background-color: rgb(22, 111, 194);
+    display: inline-block;
+}
+
+div.msg{
+    color: red;
+    font-family: initial;
+    text-shadow: 1px 1px 2px black;
+    font-size: 14pt;
+}
+
+input.form-control{
+    border-color: rgb(204, 154, 000);
+    font-family: initial;
+
+}
+
+label{
+    color: #282923;
+    font-family: initial;
+}

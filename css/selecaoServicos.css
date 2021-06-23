@@ -1,0 +1,84 @@
+ @import url('https://fonts.googleapis.com/css2?family=Blinker:wght@300&display=swap');
+
+body{
+    background-color: rgb(255, 248, 248);
+}
+
+h1{
+    color: rgb(84, 153, 243) ;
+    text-align: center;
+    font-size: 30pt;
+    text-shadow: rgb(204, 204, 204) 5px 5px 10px;
+    font-family: 'Blinker', sans-serif;
+}
+
+h2{
+    color: rgb(49, 49, 49);
+    font-family: 'Blinker', sans-serif;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+    
+}
+
+.conteiner_top{
+    /* background-color: black; */
+     text-align: center;
+}
+
+input.cadastrar{
+    color: aliceblue;
+    background-color: rgb(28, 100, 0);
+    border: 0ch;
+    padding: 10pt 20px;
+    margin: 10PX 10PX 10PX 10PX ;
+    font-size: 14pt;
+    font-family: 'Blinker', sans-serif;
+    border-radius: 10px 10px;
+
+}
+
+input.cadastrar:hover{
+    cursor: pointer;
+    transition: 1s;
+    transform: scale(1.2,1.2);
+    background-color: rgb(5, 145, 0);
+}
+
+div.conteiner{
+    
+    display: block;
+    text-align: center;
+    margin-left: 10%;
+    margin-right: 10%;
+    
+}
+
+div.conteiner_min{
+    
+  display: block;
+  text-align: center;
+  margin-top: 2%;
+  margin-left: 10%;
+  margin-right: 60%;
+  
+}
+
+div.items{
+    margin-top: 15%;
+    margin-right: 5%;
+    margin-left: 5%;
+    display: inline
+}
+
+
+
+@media screen and (max-width: 600px){
+    h1{
+        font-size: 24pt;
+    }
+    h2{
+        font-size: 14pt;
+        line-height: 20pt;
+    }
+}

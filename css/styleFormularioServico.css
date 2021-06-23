@@ -1,0 +1,23 @@
+body{
+    background-image: linear-gradient( rgb(0, 64, 124), rgb(24, 92, 238), rgb(0, 64, 124));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+}
+
+#h3{
+    text-align: center;
+    color: #ffa600;
+    text-shadow: 1px 1px 1px black;
+    font-size: 30pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#form{
+    background-color: rgb(169, 238, 249, 0.938);
+    margin-top: 1%;
+    padding: 3%;
+    border: 2px solid rgb(204, 154, 000);
+    border-radius: 1em;
+    box-shadow: 5px 5px 10px #fdab11ee
+}

@@ -1,0 +1,43 @@
+body{
+    background-image: linear-gradient( rgb(0, 64, 124), rgb(24, 92, 238), rgb(0, 64, 124));
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 657px;
+}
+
+#img1{
+
+    margin-top: 10%;
+}
+
+#font1{
+
+    text-align: center;
+    color: #fcac00;
+    text-shadow: 1px 1px 1px #000000;
+    font-size: 30pt;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#email{
+    margin: 10px;
+    width: 40%;
+    margin-bottom: 1%;
+}
+
+#senha{
+    width: 40%;
+    margin-bottom: -1%;
+}
+
+#button {
+    border: 1px solid #000000;
+    color: rgb(255, 255, 255);
+    background-color:rgb(255, 174, 0);
+    width: 40%;
+    height: 40px;
+    text-align: center;
+    display: inline-block;
+    font-size: 14pt;
+  }
+
